@@ -1,5 +1,9 @@
 # crispr_microarray_mutant_significance_testing
 
+## Preface
+
+This was originally written as a programming test, though I thought the code would be better off published in case others wish to use this (especially between academia and students).  The original data I have permutated and applied random noise to, to yield a suitable example to execute this code with.
+
 
 ## Running Instructions
 
